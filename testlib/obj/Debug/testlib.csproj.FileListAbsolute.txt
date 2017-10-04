@@ -1,0 +1,6 @@
+C:\Users\john\source\repos\csTestApp\testlib\bin\Debug\info.json
+C:\Users\john\source\repos\csTestApp\testlib\bin\Debug\testlib.dll
+C:\Users\john\source\repos\csTestApp\testlib\bin\Debug\testlib.pdb
+C:\Users\john\source\repos\csTestApp\testlib\obj\Debug\testlib.csproj.CoreCompileInputs.cache
+C:\Users\john\source\repos\csTestApp\testlib\obj\Debug\testlib.dll
+C:\Users\john\source\repos\csTestApp\testlib\obj\Debug\testlib.pdb

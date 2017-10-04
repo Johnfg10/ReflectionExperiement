@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72c9e1b1-2945-4981-84c8-1e7c5b7c7cf5" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/csTestApp/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="458">
+              <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+              <folding>
+                <marker date="1507148850349" expanded="true" signature="6:117" ph="..." />
+                <marker date="1507148850349" expanded="true" signature="138:1989" ph="{...}" />
+                <marker date="1507148850349" expanded="true" signature="165:1987" ph="{...}" />
+                <marker date="1507148850349" expanded="true" signature="367:1981" ph="{...}" />
+                <marker date="1507148850349" expanded="true" signature="709:794" ph="{...}" />
+                <marker date="1507148850349" expanded="true" signature="844:1971" ph="{...}" />
+                <marker date="1507148850349" expanded="true" signature="980:1957" ph="{...}" />
+                <marker date="1507148850349" expanded="true" signature="1078:1939" ph="{...}" />
+                <marker date="1507148850349" expanded="true" signature="1392:1917" ph="{...}" />
+                <marker date="1507148850349" expanded="true" signature="1474:1891" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Argument</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D631535C-FC46-4AA5-9D44-298619DB6798/41/0c518fb6/Directory.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FC73CFC6-637F-43C7-B075-209993A74E64/19/d0dd406d/AssemblyName.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/testlib/info.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FC73CFC6-637F-43C7-B075-209993A74E64/11/02ba20e4/Assembly.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/csTestApp/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/testlib/Class1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FC73CFC6-637F-43C7-B075-209993A74E64/b3/8af10694/MissingMethodException.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D631535C-FC46-4AA5-9D44-298619DB6798/f3/13849d20/DirectoryInfo.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C1970516-6C7C-4A60-8E18-2E859C4DE6D2/f3/36ec934a/JObject.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FC73CFC6-637F-43C7-B075-209993A74E64/d0/4dfac615/Activator.cs" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D631535C-FC46-4AA5-9D44-298619DB6798/41/0c518fb6/Directory.cs" />
+        <option value="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D631535C-FC46-4AA5-9D44-298619DB6798/f3/13849d20/DirectoryInfo.cs" />
+        <option value="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FC73CFC6-637F-43C7-B075-209993A74E64/11/02ba20e4/Assembly.cs" />
+        <option value="$PROJECT_DIR$/testlib/test.resx" />
+        <option value="$PROJECT_DIR$/testlib/Resources1.resx" />
+        <option value="$PROJECT_DIR$/testlib/Class1.cs" />
+        <option value="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C1970516-6C7C-4A60-8E18-2E859C4DE6D2/f3/36ec934a/JObject.cs" />
+        <option value="$PROJECT_DIR$/testlib/info.json" />
+        <option value="$PROJECT_DIR$/csTestApp/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="160" />
+    <option name="y" value="123" />
+    <option name="width" value="960" />
+    <option name="height" value="738" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="csTestApp (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="csTestApp (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="testlib" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.csTestApp">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+    </configuration>
+    <configuration name="csTestApp" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/csTestApp/csTestApp.csproj" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/csTestApp/bin/Debug/netcoreapp2.0/csTestApp.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/csTestApp" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+      <item index="1" class="java.lang.String" itemvalue=".NET Project.csTestApp" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue=".NET Project.csTestApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72c9e1b1-2945-4981-84c8-1e7c5b7c7cf5" name="Default" comment="" />
+      <created>1507143695378</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1507143695378</updated>
+      <workItem from="1507143702342" duration="5406000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5406000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3990981" sideWeight="0.503125" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919955" sideWeight="0.61015624" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30101466" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17421874" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3990981" sideWeight="0.496875" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D631535C-FC46-4AA5-9D44-298619DB6798/f3/13849d20/DirectoryInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D631535C-FC46-4AA5-9D44-298619DB6798/41/0c518fb6/Directory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="262" column="38" lean-forward="false" selection-start-line="262" selection-start-column="38" selection-end-line="262" selection-end-column="38" />
+          <folding>
+            <marker date="1507144388456" expanded="true" signature="0:321" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1507144388456" expanded="false" signature="329:379" ph="..." />
+            <marker date="1507144388456" expanded="true" signature="400:16745" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="434:16743" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="493:881" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="970:1322" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="1400:1540" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="1611:2077" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="1627:1788" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="1823:1839" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="1878:1894" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="1929:1945" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="1974:1990" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="2035:2051" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="2153:2268" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="2350:2478" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="2535:2588" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="2648:2704" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="2782:2899" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="2983:3113" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="3171:3225" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="3286:3343" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="3423:3542" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="3628:3760" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="3819:3874" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="3936:3994" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="4044:4219" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="4291:4574" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="4673:5141" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="5249:5369" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="5425:5606" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="5684:5973" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="6078:6552" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="6666:6786" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="6848:7035" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="7119:7414" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="7525:8005" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="8125:8244" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="8428:8623" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="8696:8883" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="8978:9273" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="9395:9875" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="10006:10115" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="10182:10363" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="10452:10741" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="10857:11331" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="11456:11565" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="11644:11837" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="11938:12239" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="12367:12853" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="12990:13098" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="13262:13422" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="13505:13719" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="13785:13917" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="13992:14059" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="14139:14507" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="14605:16296" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="16367:16452" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="16539:16628" ph="{...}" />
+            <marker date="1507144388456" expanded="true" signature="16675:16739" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testlib/testlib.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testlib/test.resx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testlib/Resources.resx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FC73CFC6-637F-43C7-B075-209993A74E64/19/d0dd406d/AssemblyName.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FC73CFC6-637F-43C7-B075-209993A74E64/11/02ba20e4/Assembly.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="342" column="24" lean-forward="false" selection-start-line="342" selection-start-column="24" selection-end-line="342" selection-end-column="24" />
+          <folding>
+            <marker date="1507145102772" expanded="true" signature="0:351" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1507145102772" expanded="false" signature="359:529" ph="..." />
+            <marker date="1507145102772" expanded="true" signature="558:57874" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="795:57872" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="804:982" ph="///Gets a collection that contains this assembly's custom attributes. ... " />
+            <marker date="1507145102772" expanded="true" signature="1051:1109" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="1067:1103" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="1115:1273" ph="///Gets a collection of the types defined in this assembly. ... " />
+            <marker date="1507145102772" expanded="true" signature="1342:1494" ph="///Gets the URI, including escape characters, that represents the codebase. ... " />
+            <marker date="1507145102772" expanded="true" signature="1536:1594" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="1552:1588" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="1600:1848" ph="///Gets a collection of the public types defined in this assembly that are visible outside the assembly. ... " />
+            <marker date="1507145102772" expanded="true" signature="1899:1957" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="1915:1951" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="1963:2194" ph="///Gets the entry point of this assembly. ... " />
+            <marker date="1507145102772" expanded="true" signature="2235:2293" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="2251:2287" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="2299:2421" ph="///Gets the display name of the assembly. ... " />
+            <marker date="1507145102772" expanded="true" signature="2456:2514" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="2472:2508" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="2520:2739" ph="///Gets a value indicating whether the assembly was loaded from the global assembly cache. ... " />
+            <marker date="1507145102772" expanded="true" signature="2783:2841" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="2799:2835" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="2847:3073" ph="///Gets the host context with which the assembly was loaded. ... " />
+            <marker date="1507145102772" expanded="true" signature="3109:3167" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="3125:3161" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="3173:3451" ph="///Gets a value that indicates whether the current assembly was generated dynamically in the current process by u ... " />
+            <marker date="1507145102772" expanded="true" signature="3485:3543" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="3501:3537" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="3549:3756" ph="///Gets a value that indicates whether the current assembly is loaded with full trust. ... " />
+            <marker date="1507145102772" expanded="true" signature="3787:3845" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="3803:3839" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="3851:4025" ph="///Gets the module that contains the manifest for the current assembly. ... " />
+            <marker date="1507145102772" expanded="true" signature="4066:4124" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="4082:4118" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="4130:4319" ph="///Occurs when the common language runtime class loader cannot resolve a reference to an internal module of an as ... " />
+            <marker date="1507145102772" expanded="true" signature="4457:4625" ph="///Gets a collection that contains the modules in this assembly. ... " />
+            <marker date="1507145102772" expanded="true" signature="4687:4982" ph="///Gets a &lt;see cref=&quot;T:System.Boolean&quot;&gt;&lt;/see&gt; value indicating whether this assembly was loaded into the reflecti ... " />
+            <marker date="1507145102772" expanded="true" signature="5021:5079" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="5037:5073" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="5085:5315" ph="///Gets a value that indicates which set of security rules the common language runtime (CLR) enforces for this as ... " />
+            <marker date="1507145102772" expanded="true" signature="5366:5424" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="5382:5418" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="5430:5707" ph="///Determines whether this assembly and the specified object are equal. ... " />
+            <marker date="1507145102772" expanded="true" signature="5749:5779" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="5785:6178" ph="///Indicates whether two &lt;see cref=&quot;T:System.Reflection.Assembly&quot;&gt;&lt;/see&gt; objects are equal. ... " />
+            <marker date="1507145102772" expanded="true" signature="6244:6274" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="6280:6681" ph="///Indicates whether two &lt;see cref=&quot;T:System.Reflection.Assembly&quot;&gt;&lt;/see&gt; objects are not equal. ... " />
+            <marker date="1507145102772" expanded="true" signature="6747:6777" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="6783:7180" ph="///Gets the currently loaded assembly in which the specified type is defined. ... " />
+            <marker date="1507145102772" expanded="true" signature="7230:7260" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="7266:7513" ph="///Returns the &lt;see cref=&quot;T:System.Reflection.Assembly&quot;&gt;&lt;/see&gt; of the method that invoked the currently executing ... " />
+            <marker date="1507145102772" expanded="true" signature="7561:7591" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="7597:8593" ph="///Gets a &lt;see cref=&quot;T:System.IO.FileStream&quot;&gt;&lt;/see&gt; for the specified file in the file table of the manifest of t ... " />
+            <marker date="1507145102772" expanded="true" signature="8644:8674" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="8680:9140" ph="///Gets the files in the file table of an assembly manifest. ... " />
+            <marker date="1507145102772" expanded="true" signature="9183:9213" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="9219:9828" ph="///Gets the files in the file table of an assembly manifest, specifying whether to include resource modules. ... " />
+            <marker date="1507145102772" expanded="true" signature="9894:9924" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="9930:10055" ph="///Returns the hash code for this instance. ... " />
+            <marker date="1507145102772" expanded="true" signature="10093:10123" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="10129:10735" ph="///Returns information about how the given resource has been persisted. ... " />
+            <marker date="1507145102772" expanded="true" signature="10820:10850" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="10856:11017" ph="///Returns the names of all the resources in this assembly. ... " />
+            <marker date="1507145102772" expanded="true" signature="11072:11102" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="11108:12557" ph="///Loads the specified manifest resource from this assembly. ... " />
+            <marker date="1507145102772" expanded="true" signature="12622:12652" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="12658:13938" ph="///Loads the specified manifest resource, scoped by the namespace of the specified type, from this assembly. ... " />
+            <marker date="1507145102772" expanded="true" signature="14014:14044" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="14050:14924" ph="///Gets the specified module in this assembly. ... " />
+            <marker date="1507145102772" expanded="true" signature="14973:15003" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="15009:15268" ph="///Gets all the modules that are part of this assembly. ... " />
+            <marker date="1507145102772" expanded="true" signature="15301:15331" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="15337:15609" ph="///Gets all the modules that are part of this assembly, specifying whether to include resource modules. ... " />
+            <marker date="1507145102772" expanded="true" signature="15673:15703" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="15709:16268" ph="///Gets an &lt;see cref=&quot;T:System.Reflection.AssemblyName&quot;&gt;&lt;/see&gt; for this assembly, setting the codebase as specifi ... " />
+            <marker date="1507145102772" expanded="true" signature="16325:16355" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="16361:16562" ph="///Gets an &lt;see cref=&quot;T:System.Reflection.AssemblyName&quot;&gt;&lt;/see&gt; for this assembly. ... " />
+            <marker date="1507145102772" expanded="true" signature="16604:16634" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="16640:17047" ph="///Gets serialization information with all of the data needed to reinstantiate this assembly. ... " />
+            <marker date="1507145102772" expanded="true" signature="17135:17147" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="17193:17223" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="17229:19129" ph="///Gets the &lt;see cref=&quot;T:System.Type&quot;&gt;&lt;/see&gt; object with the specified name in the assembly instance, with the op ... " />
+            <marker date="1507145102772" expanded="true" signature="19210:19240" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="19246:20049" ph="///Loads the assembly with a common object file format (COFF)-based image containing an emitted assembly. The ass ... " />
+            <marker date="1507145102772" expanded="true" signature="20101:20131" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="20137:21116" ph="///Loads the assembly with a common object file format (COFF)-based image containing an emitted assembly, optiona ... " />
+            <marker date="1507145102772" expanded="true" signature="21191:21221" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="21227:22492" ph="///Loads an assembly given its &lt;see cref=&quot;T:System.Reflection.AssemblyName&quot;&gt;&lt;/see&gt;. ... " />
+            <marker date="1507145102772" expanded="true" signature="22550:22580" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="22586:23659" ph="///Loads an assembly given the long form of its name. ... " />
+            <marker date="1507145102772" expanded="true" signature="23714:23744" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="23750:24804" ph="///Loads the contents of an assembly file on the specified path. ... " />
+            <marker date="1507145102772" expanded="true" signature="24853:24883" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="24889:26488" ph="///Loads an assembly given its file name or path. ... " />
+            <marker date="1507145102772" expanded="true" signature="26545:26575" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="26581:28408" ph="///Loads an assembly given its file name or path, hash value, and hash algorithm. ... " />
+            <marker date="1507145102772" expanded="true" signature="28520:28550" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="28556:29637" ph="///Loads the module, internal to this assembly, with a common object file format (COFF)-based image containing an ... " />
+            <marker date="1507145102772" expanded="true" signature="29703:29733" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="29739:31056" ph="///Loads the module, internal to this assembly, with a common object file format (COFF)-based image containing an ... " />
+            <marker date="1507145102772" expanded="true" signature="31153:31183" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="31189:32001" ph="///Loads an assembly from the application directory or from the global assembly cache using a partial name. ... " />
+            <marker date="1507145102772" expanded="true" signature="32200:32230" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="32236:32741" ph="///Gets the process executable in the default application domain. In other application domains, this is the first ... " />
+            <marker date="1507145102772" expanded="true" signature="32787:32817" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="32823:33007" ph="///Gets the assembly that contains the code that is currently executing. ... " />
+            <marker date="1507145102772" expanded="true" signature="33057:33087" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="33093:33223" ph="///Gets all the loaded modules that are part of this assembly. ... " />
+            <marker date="1507145102772" expanded="true" signature="33262:33292" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="33298:33577" ph="///Gets all the loaded modules that are part of this assembly, specifying whether to include resource modules. ... " />
+            <marker date="1507145102772" expanded="true" signature="33647:33677" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="33683:34368" ph="///Gets the full path or UNC location of the loaded file that contains the manifest. ... " />
+            <marker date="1507145102772" expanded="true" signature="34403:34461" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="34419:34455" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="34467:34691" ph="///Returns the full name of the assembly, also known as the display name. ... " />
+            <marker date="1507145102772" expanded="true" signature="34729:34759" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="34765:36293" ph="///Loads an assembly into the load-from context, bypassing some security checks. ... " />
+            <marker date="1507145102772" expanded="true" signature="36356:36386" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="36392:36633" ph="///Gets the location of the assembly as specified originally, for example, in an &lt;see cref=&quot;T:System.Reflection.A ... " />
+            <marker date="1507145102772" expanded="true" signature="36668:36726" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="36684:36720" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="36732:36954" ph="///Gets a string representing the version of the common language runtime (CLR) saved in the file containing the m ... " />
+            <marker date="1507145102772" expanded="true" signature="37000:37058" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="37016:37052" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="37064:39071" ph="///Locates the specified type from this assembly and creates an instance of it using the system activator, using  ... " />
+            <marker date="1507145102772" expanded="true" signature="39121:39151" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="39157:41273" ph="///Locates the specified type from this assembly and creates an instance of it using the system activator, with o ... " />
+            <marker date="1507145102772" expanded="true" signature="41340:41370" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="41376:45293" ph="///Locates the specified type from this assembly and creates an instance of it using the system activator, with o ... " />
+            <marker date="1507145102772" expanded="true" signature="45476:45506" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="45512:45848" ph="///Creates the name of a type qualified by the display name of its assembly. ... " />
+            <marker date="1507145102772" expanded="true" signature="45931:45961" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="45967:46262" ph="///Gets all the custom attributes for this assembly. ... " />
+            <marker date="1507145102772" expanded="true" signature="46324:46354" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="46360:47127" ph="///Gets the custom attributes for this assembly as specified by type. ... " />
+            <marker date="1507145102772" expanded="true" signature="47209:47239" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="47245:47675" ph="///Returns information about the attributes that have been applied to the current &lt;see cref=&quot;T:System.Reflection. ... " />
+            <marker date="1507145102772" expanded="true" signature="47747:47777" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="47783:48122" ph="///Gets the public types defined in this assembly that are visible outside the assembly. ... " />
+            <marker date="1507145102772" expanded="true" signature="48167:48197" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="48203:48478" ph="///Gets the &lt;see cref=&quot;T:System.Reflection.AssemblyName&quot;&gt;&lt;/see&gt; objects for all the assemblies referenced by this ... " />
+            <marker date="1507145102772" expanded="true" signature="48538:48568" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="48574:49297" ph="///Gets the satellite assembly for the specified culture. ... " />
+            <marker date="1507145102772" expanded="true" signature="49367:49397" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="49403:50243" ph="///Gets the specified version of the satellite assembly for the specified culture. ... " />
+            <marker date="1507145102772" expanded="true" signature="50330:50360" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="50366:52131" ph="///Gets the &lt;see cref=&quot;T:System.Type&quot;&gt;&lt;/see&gt; object with the specified name in the assembly instance and optional ... " />
+            <marker date="1507145102772" expanded="true" signature="52195:52225" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="52231:52963" ph="///Gets the types defined in this assembly. ... " />
+            <marker date="1507145102772" expanded="true" signature="53000:53030" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="53036:54003" ph="///Loads the assembly from a common object file format (COFF)-based image containing an emitted assembly. The ass ... " />
+            <marker date="1507145102772" expanded="true" signature="54069:54099" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="54105:55338" ph="///Loads an assembly into the reflection-only context, given its display name. ... " />
+            <marker date="1507145102772" expanded="true" signature="55407:55437" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="55443:56990" ph="///Loads an assembly into the reflection-only context, given its path. ... " />
+            <marker date="1507145102772" expanded="true" signature="57061:57091" ph="{...}" />
+            <marker date="1507145102772" expanded="true" signature="57097:57770" ph="///Indicates whether or not a specified attribute has been applied to the assembly. ... " />
+            <marker date="1507145102772" expanded="true" signature="57838:57868" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FC73CFC6-637F-43C7-B075-209993A74E64/b3/8af10694/MissingMethodException.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="15" lean-forward="false" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testlib/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding>
+            <marker date="1507146269246" expanded="true" signature="32:166" ph="{...}" />
+            <marker date="1507146269246" expanded="true" signature="58:164" ph="{...}" />
+            <marker date="1507146269246" expanded="true" signature="91:158" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testlib/info.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C1970516-6C7C-4A60-8E18-2E859C4DE6D2/f3/36ec934a/JObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="441" column="18" lean-forward="false" selection-start-line="441" selection-start-column="18" selection-end-line="441" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FC73CFC6-637F-43C7-B075-209993A74E64/d0/4dfac615/Activator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="33" column="25" lean-forward="false" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+          <folding>
+            <marker date="1507148013563" expanded="true" signature="0:341" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1507148013563" expanded="false" signature="349:395" ph="..." />
+            <marker date="1507148013563" expanded="true" signature="413:22690" ph="{...}" />
+            <marker date="1507148013563" expanded="true" signature="618:22688" ph="{...}" />
+            <marker date="1507148013563" expanded="true" signature="627:3713" ph="///Creates an instance of the specified type using that type's default constructor. ... " />
+            <marker date="1507148013563" expanded="true" signature="3764:3794" ph="{...}" />
+            <marker date="1507148013563" expanded="true" signature="3800:6382" ph="///Creates an instance of the specified type using that type's default constructor. ... " />
+            <marker date="1507148013563" expanded="true" signature="6449:6479" ph="{...}" />
+            <marker date="1507148013563" expanded="true" signature="6485:9956" ph="///Creates an instance of the specified type using the constructor that best matches the specified parameters. ... " />
+            <marker date="1507148013563" expanded="true" signature="10029:10059" ph="{...}" />
+            <marker date="1507148013563" expanded="true" signature="10065:13655" ph="///Creates an instance of the specified type using the constructor that best matches the specified parameters. ... " />
+            <marker date="1507148013563" expanded="true" signature="13752:13782" ph="{...}" />
+            <marker date="1507148013563" expanded="true" signature="13788:17244" ph="///Creates an instance of the specified type using the constructor that best matches the specified parameters. ... " />
+            <marker date="1507148013563" expanded="true" signature="17372:17402" ph="{...}" />
+            <marker date="1507148013563" expanded="true" signature="17408:21642" ph="///Creates an instance of the specified type using the constructor that best matches the specified parameters. ... " />
+            <marker date="1507148013563" expanded="true" signature="21801:21831" ph="{...}" />
+            <marker date="1507148013563" expanded="true" signature="21837:22614" ph="///Creates an instance of the type designated by the specified generic type parameter, using the parameterless co ... " />
+            <marker date="1507148013563" expanded="true" signature="22654:22684" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csTestApp/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding>
+            <marker date="1507148850349" expanded="true" signature="6:117" ph="..." />
+            <marker date="1507148850349" expanded="true" signature="138:1989" ph="{...}" />
+            <marker date="1507148850349" expanded="true" signature="165:1987" ph="{...}" />
+            <marker date="1507148850349" expanded="true" signature="367:1981" ph="{...}" />
+            <marker date="1507148850349" expanded="true" signature="709:794" ph="{...}" />
+            <marker date="1507148850349" expanded="true" signature="844:1971" ph="{...}" />
+            <marker date="1507148850349" expanded="true" signature="980:1957" ph="{...}" />
+            <marker date="1507148850349" expanded="true" signature="1078:1939" ph="{...}" />
+            <marker date="1507148850349" expanded="true" signature="1392:1917" ph="{...}" />
+            <marker date="1507148850349" expanded="true" signature="1474:1891" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
